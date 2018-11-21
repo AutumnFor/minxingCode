@@ -1,0 +1,10 @@
+release/0930-2.8.1-all
+OSCE考试智能管理系统 MIS-ISES V2.7.2
+教学运营管理系统 MIS-OSS V2.8
+一体化课堂智能助教系统 MIS-iTeacher V2.8
+临床技能教学大数据管理平台系统 MIS-OLAP V1.0
+临床诊疗智能训练系统 MIS-CRT V2.1
+住院医师管理系统 MIS-ZP V1.0
+实习管理系统 MIS-SXSLZ V1.0
+开放实验室管理系统 MIS-OpenLab V2.8
+在线学习系统 MIS-iStudy V2.8
